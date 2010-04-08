@@ -23,6 +23,8 @@ h1. History
 
 h1. Vi IMproved
 
+*(step) MacVim
+
 h1. Basics for the n00bs
 
 *(step) modal editing
@@ -30,6 +32,7 @@ h1. Basics for the n00bs
 *(step) counts
 *(step) leader character
 *(step) ex commands (:)
+*(step) help!
 
 h1. Advanced features
 
@@ -47,22 +50,28 @@ h1. VIML
 h1. NERDTree
 
 * Like TextMate project drawer
-*(step) Live demo
+*(step) Live Demo
 
 h1. rails.vim
+
+*(step) gf
+*(step) :A
+*(step) :Rextract
+*(step) Live Demo
 
 h1. Command-T
 
 * Like TextMate Command-T
-*(step) Live demo
+*(step) Live Demo
 
 h1. BufExplorer
 
-h1. ctags
-
-* autotag.vim
+* Explore your buffers!
+*(step) Live Demo
 
 h1. vimfiles
+
+"http://github.com/scrooloose/vimfiles":http://github.com/scrooloose/vimfiles
 
 h1. Other Plugins
 
@@ -72,14 +81,10 @@ h1. Other Plugins
 * Align
 * RubySingleTest
 * endwise
+* AutoTags
+* RubySingleTest
 
 h1. vim.org
-
-h1. Vim People
-
-* Martin Grenfell
-* Tim Pope
-* Bram Moolenaar, author of vim
 
 h1. Links
 
@@ -130,3 +135,13 @@ h1. More Plugin Links
 *Align* - "http://www.vim.org/scripts/script.php?script_id=294":http://www.vim.org/scripts/script.php?script_id=294
 
 *RubySingleTest* - "http://www.vim.org/scripts/script.php?script_id=2869":http://www.vim.org/scripts/script.php?script_id=2869
+
+h1. Thanks!
+
+"http://amikula.github.com/vim_fu/vim_fu.html":http://amikula.github.com/vim_fu/vim_fu.html
+
+Alf Mikula
+"@alfmikula":http://twitter.com/alfmikula
+
+Doug McInnes
+"@dougmcinnes":http://twitter.com/dougmcinnes
