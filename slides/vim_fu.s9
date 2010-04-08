@@ -1,14 +1,25 @@
 h1. Mastering the Art of Vim Fu
 
-by Doug and Alf
+* Doug McInnes
+* Alf Mikula
 
 h1. History
+
+* ed
+* em ("editor for mortals")
+* en
+* ex/vi written by Bill Joy in 1976
+* Today vi is part of Single Unix Specification and POSIX
+* vim written by Bram Moolenaar in 1991
+
+h1. Vi IMproved
 
 h1. Basics for the n00bs
 
 * modal editing
 * escaping
-* leader
+* leader character
+* ex commands (:)
 
 h1. Advanced features
 
@@ -32,6 +43,7 @@ h1. rails.vim
 h1. Command-T
 
 * Like TextMate Command-T
+* Live demo
 
 h1. BufExplorer
 
@@ -47,6 +59,7 @@ h1. Other Plugins
 * NERDCommenter
 * NERDSnippets
 * Align
+* endwise
 
 h1. vim.org
 
@@ -54,5 +67,6 @@ h1. Vim People
 
 * Martin Grenfell
 * Tim Pope
+* Bram Moolenaar, author of vim
 
 h1. Links
