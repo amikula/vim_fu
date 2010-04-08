@@ -1,5 +1,58 @@
 h1. Mastering the Art of Vim Fu
 
-h1. Foo
+by Doug and Alf
 
-h1. Bar
+h1. History
+
+h1. Basics for the n00bs
+
+* modal editing
+* escaping
+* leader
+
+h1. Advanced features
+
+* ctags
+* quickfix
+* split windows
+* tabs
+* macros!
+
+h1. VIML
+
+* Ruby support
+
+h1. NERDTree
+
+* Like TextMate project drawer
+* Live demo
+
+h1. rails.vim
+
+h1. Command-T
+
+* Like TextMate Command-T
+
+h1. BufExplorer
+
+h1. ctags
+
+* autotag.vim
+
+h1. vimfiles
+
+h1. Other Plugins
+
+* vimball archive
+* NERDCommenter
+* NERDSnippets
+* Align
+
+h1. vim.org
+
+h1. Vim People
+
+* Martin Grenfell
+* Tim Pope
+
+h1. Links
