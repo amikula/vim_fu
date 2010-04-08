@@ -1,6 +1,8 @@
+title: Mastering the Art of Vim Fu
+gradient: top-bottom #036 #999
+
 <% content_for :css do %>
   .step { display: none; }
-  .stepcurrent .code { color: white; }
 <% end %>
 
 h1. Mastering the Art of Vim Fu
