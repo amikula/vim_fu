@@ -17,7 +17,8 @@ h1. Vi IMproved
 h1. Basics for the n00bs
 
 * modal editing
-* escaping
+* escape escape escape
+* counts
 * leader character
 * ex commands (:)
 
@@ -59,6 +60,7 @@ h1. Other Plugins
 * NERDCommenter
 * NERDSnippets
 * Align
+* RubySingleTest
 * endwise
 
 h1. vim.org
@@ -70,3 +72,51 @@ h1. Vim People
 * Bram Moolenaar, author of vim
 
 h1. Links
+
+"http://www.vim.org/":http://www.vim.org/
+
+*MacVim* - "http://code.google.com/p/macvim/":http://code.google.com/p/macvim/
+
+"http://vim.wikia.com/wiki/Best_Vim_Tips":http://vim.wikia.com/wiki/Best_Vim_Tips
+
+*Cheat Sheet!* -  "http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html":http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+
+h1. More Links
+
+"http://items.sjbach.com/319/configuring-vim-right":http://items.sjbach.com/319/configuring-vim-right
+
+*Screencasts on Vim* - "http://vimcasts.org/":http://vimcasts.org/
+
+*Vim Tip a Day on Twitter* - "http://twitter.com/vimtips":http://twitter.com/vimtips
+
+"http://durdn.com/blog/2008/11/26/vim-mind-share-soaring-roundup-of-10-vim-articles-recent-and-older-gems/":http://durdn.com/blog/2008/11/26/vim-mind-share-soaring-roundup-of-10-vim-articles-recent-and-older-gems/
+
+h1. Even More Links
+
+*Vim Recipies* - "http://vim.runpaint.org/toc/":http://vim.runpaint.org/toc/
+
+"http://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide/":http://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide/
+
+h1. Plugin Links
+
+*The Rails Plugin* - "http://rails.vim.tpope.net/":http://rails.vim.tpope.net/
+
+*NERD Tree* - "http://www.vim.org/scripts/script.php?script_id=1658":http://www.vim.org/scripts/script.php?script_id=1658
+
+*Command-T* - "http://www.vim.org/scripts/script.php?script_id=3025":http://www.vim.org/scripts/script.php?script_id=3025
+
+*BufExplorer* - "http://www.vim.org/scripts/script.php?script_id=42":http://www.vim.org/scripts/script.php?script_id=42
+
+*AutoTag* - "http://www.vim.org/scripts/script.php?script_id=1343":http://www.vim.org/scripts/script.php?script_id=1343
+
+h1. More Plugin Links
+
+*Vimball* - "http://www.vim.org/scripts/script.php?script_id=1502":http://www.vim.org/scripts/script.php?script_id=1502
+
+*NERDCommenter* - "http://www.vim.org/scripts/script.php?script_id=1218":http://www.vim.org/scripts/script.php?script_id=1218
+
+*NERDSnippets* - "http://github.com/scrooloose/nerdsnippets":http://github.com/scrooloose/nerdsnippets
+
+*Align* - "http://www.vim.org/scripts/script.php?script_id=294":http://www.vim.org/scripts/script.php?script_id=294
+
+*RubySingleTest* - "http://www.vim.org/scripts/script.php?script_id=2869":http://www.vim.org/scripts/script.php?script_id=2869
