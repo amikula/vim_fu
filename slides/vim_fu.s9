@@ -1,3 +1,8 @@
+<% content_for :css do %>
+  .step { display: none; }
+  .stepcurrent .code { color: white; }
+<% end %>
+
 h1. Mastering the Art of Vim Fu
 
 * Doug McInnes
@@ -5,46 +10,47 @@ h1. Mastering the Art of Vim Fu
 
 h1. History
 
-* ed
-* em ("editor for mortals")
-* en
-* ex/vi written by Bill Joy in 1976
-* Today vi is part of Single Unix Specification and POSIX
-* vim written by Bram Moolenaar in 1991
+*(step) ed
+*(step) em ("editor for mortals")
+*(step) en
+*(step) ex/vi written by Bill Joy in 1976
+*(step) Today vi is part of Single Unix Specification and POSIX
+*(step) vim written by Bram Moolenaar in 1991
 
 h1. Vi IMproved
 
 h1. Basics for the n00bs
 
-* modal editing
-* escape escape escape
-* counts
-* leader character
-* ex commands (:)
+*(step) modal editing
+*(step) escape escape escape
+*(step) counts
+*(step) leader character
+*(step) ex commands (:)
 
 h1. Advanced features
 
-* ctags
-* quickfix
-* split windows
-* tabs
-* macros!
+*(step) ctags
+*(step) quickfix
+*(step) split windows
+*(step) tabs
+*(step) macros!
 
 h1. VIML
 
+* Programming language for extensions
 * Ruby support
 
 h1. NERDTree
 
 * Like TextMate project drawer
-* Live demo
+*(step) Live demo
 
 h1. rails.vim
 
 h1. Command-T
 
 * Like TextMate Command-T
-* Live demo
+*(step) Live demo
 
 h1. BufExplorer
 
