@@ -23,6 +23,15 @@ h1. History
 
 h1. Vi IMproved
 
+* completion
+* comprehensive integrated help system
+* extended regular expressions
+* native scripting language
+* Perl, Python, Ruby, Tcl integration
+* plugins
+* mouse interaction
+* ...and much more!
+
 h1. Basics for the n00bs
 
 *(step) modal editing
