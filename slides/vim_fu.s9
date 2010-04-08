@@ -55,7 +55,7 @@ h1. Advanced features
 *(step) quickfix
 *(step) split windows
 *(step) tabs
-*(step) macros!
+*(step) macros! (Live demo)
 
 h1. VIML
 
@@ -93,11 +93,11 @@ h1. Other Plugins
 * vimball archive
 * NERDCommenter
 * NERDSnippets
+* SnipMate
 * Align
 * RubySingleTest
 * endwise
 * AutoTags
-* RubySingleTest
 
 h1. vim.org
 
