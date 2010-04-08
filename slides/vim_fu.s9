@@ -55,6 +55,7 @@ h1. Advanced features
 *(step) quickfix
 *(step) split windows
 *(step) tabs
+*(step) regex
 *(step) macros! (Live demo)
 
 h1. VIML
